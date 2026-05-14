@@ -17,7 +17,7 @@ POST {{ProductsAPI_HostAddress}}/api/products
 Content-Type: application/json
 
 {
-  "id": 6,
+  "id": 7,
   "name": "WhiteBoard",
   "price": 800.0,
   "quantity": 5
@@ -28,10 +28,10 @@ PUT {{ProductsAPI_HostAddress}}/api/products/6
 Content-Type: application/json
 
 {
-  "id": 5,
+  "id": 6,
   "name": "WhiteBoard",
   "price": 750.0,
-  "quantity": 5
+  "quantity": 6
 }
 
 ###

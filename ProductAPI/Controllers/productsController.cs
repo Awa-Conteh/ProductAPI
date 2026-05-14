@@ -42,6 +42,14 @@ namespace ProductAPI.Controllers
                 Name = "Chair",
                 Price = 300.0M,
                 Quantity = 2
+            },
+
+            new Product
+            {
+                ID = 6,
+                Name = "Monitor",
+                Price = 1200.0M,
+                Quantity = 4
             }
 
         };
